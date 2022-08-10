@@ -1,0 +1,12 @@
+.button{
+    background-color: red;
+    padding: 4px 8px;
+    border: 1px solid;
+    border-radius: 4px;
+    cursor: all-scroll;
+}
+
+.buttton:hover {
+    background-color: blueviolet;
+    color: yellow;
+}
